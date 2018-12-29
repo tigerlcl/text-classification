@@ -4,3 +4,7 @@ build a text classifier of movie reviews, and then deploy the text classifier as
 ### Dataset
 Movie reviews collected from IMDb, which is a movie database where Internet users can leave their comments about movies. The dataset can be obtained from the following Webpage: http://ai.stanford.edu/~amaas/data/sentiment/.
 
+### Remarks:
+1. Involed Tech fileds: Latent Sentiment Analysis on NLP, Supervised Machine Learing, Model Optimization
+2. Three text files will be the ouput of parent ipynb file and used in the children folder: fasttext
+
