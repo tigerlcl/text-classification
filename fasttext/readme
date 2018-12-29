@@ -1,0 +1,3 @@
+fastText is a library for efficient learning of word representations and sentence classification.
+
+Ref: https://github.com/facebookresearch/fastText/tree/master/python
