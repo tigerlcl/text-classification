@@ -26,7 +26,7 @@ if __name__ == "__main__":
 
     model = joblib.load('model.pkl')
     # Provide your bot's token
-    bot = telepot.Bot("587437196:AAGKtoViNhSK7gBePn2DtRJlvBbzXl-kBkM")
+    bot = telepot.Bot("BOT's TOKEN")
     print('bot is ready')
     MessageLoop(bot, handle).run_as_thread()
 
